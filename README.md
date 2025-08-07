@@ -35,3 +35,40 @@ Clone the repository and install dependencies:
 git clone https://github.com/OmPimple26/Hugging-Face.git
 cd Hugging-Face
 pip install -r requirements.txt
+```
+
+---
+
+📊 Results
+Here are a few sample results:
+
+✨ Text-to-Image: "A futuristic cityscape at sunset" →
+
+🎤 Text-to-Speech: "Hello world!" → Audio Sample
+
+📄 Summarization: Full articles summarized into a few key sentences.
+
+---
+
+💡 Future Enhancements
+Add GUI interface using Gradio or Streamlit
+
+Fine-tune models on custom datasets
+
+Add support for multilingual summarization and speech synthesis
+
+---
+
+🤝 Contributing
+Pull requests are welcome! Feel free to open issues or suggest improvements.
+
+---
+
+🙌 Acknowledgments
+Hugging Face
+
+PyTorch
+
+Diffusers
+
+Transformers
