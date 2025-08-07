@@ -39,7 +39,7 @@ pip install -r requirements.txt
 
 ---
 
-📊 Results
+## 📊 Results
 Here are a few sample results:
 
 ✨ Text-to-Image: "A futuristic cityscape at sunset" →
@@ -50,7 +50,7 @@ Here are a few sample results:
 
 ---
 
-💡 Future Enhancements
+## 💡 Future Enhancements
 Add GUI interface using Gradio or Streamlit
 
 Fine-tune models on custom datasets
@@ -59,12 +59,12 @@ Add support for multilingual summarization and speech synthesis
 
 ---
 
-🤝 Contributing
+## 🤝 Contributing
 Pull requests are welcome! Feel free to open issues or suggest improvements.
 
 ---
 
-🙌 Acknowledgments
+## 🙌 Acknowledgments
 Hugging Face
 
 PyTorch
